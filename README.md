@@ -21,7 +21,7 @@ Now that we have a long URL, we can perform some analysis on it as follows:-
 - Check the DNS records using tools like [DNSDUMPSTER](https://dnsdumpster.com/), [MXTOOLBOX](https://mxtoolbox.com/DNSLookup.aspx).
 - Check the site reputation & related data using Threat Intelligence platforms like [VIRUSTOTAL](https://www.virustotal.com/), [CISCO TALOS](https://talosintelligence.com/reputation_center), [PULSEDIVE](https://pulsedive.com/), [OPSWAT METADEFENDER](https://metadefender.opswat.com/).
 - Open the URL in browser sandboxes like [BROWSERLING](https://www.browserling.com/) and [WANNABROWSER](https://www.wannabrowser.net/) with custom user agents.
-- Some URLs maybe in format `https://example.com/@not-malicious.com`. Here first part of URL is just for show, once a user clicks in this link `not-malicious.com` will load instead of `example.com`.
+- Some URLs maybe in format `https://example.com/@not-malicious.com`. Here first part of URL is just for show, once a user clicks this link `not-malicious.com` will load instead of `example.com`.
 
 
 ## Related Writeups:-
