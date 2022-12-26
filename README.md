@@ -1,6 +1,6 @@
 # Hitchhiker's Guide to URL Analysis
 
-# Intro 
+## Intro 
 URL Analysis is a collection of techniques to determine whether a given URL is malicious or not. Generally we encounter two types of URL i.e, Short URL & Long URL. In this repo we will see some tools & techniques for analyzing these URLs and figure out whether they are safe or not.
 
 
