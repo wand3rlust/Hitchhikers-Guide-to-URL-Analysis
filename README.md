@@ -24,7 +24,7 @@ Now that we have a long URL, we can perform some analysis on it as follows:-
 - Some URLs maybe in format `https://example.com/@not-malicious.com`. Here first part of URL is just for show, once a user clicks this link `not-malicious.com` will load instead of `example.com`.
 
 
-## Related Writeups:-
+## Related Resources:-
 - https://isc.sans.edu/diary/Taking+Apart+URL+Shorteners/28980
 - https://medium.com/@joseph.pyram/9-parts-of-a-url-that-you-should-know-89fea8e11713
 - https://hustlelead.medium.com/url-analysis-how-to-determine-maliciousness-f630b4e51b9e
