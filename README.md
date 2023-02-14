@@ -11,6 +11,7 @@ Here are some tricks for converting them to original form.
 - [ZSCALER ZULU](https://zulu.zscaler.com/)
 - [UNSHORTEN.IT](https://unshorten.it/)
 - [URLSCAN.IO](https://urlscan.io/)
+- [EXPANDURL.NET](https://www.expandurl.net/)
 - Some services like bit.ly, goo.gl, tiny.url can be expanded by appending "`+`". 
   For e.g, `bit.ly/abcdefgh+`
 - You can also use [UrlXpand](https://github.com/wand3rlust/Hitchhikers-Guide-to-URL-Analysis/blob/main/urlxpand.sh), a CLI tool I cooked after seeing Rob VandenBrink's Unshorten script.
