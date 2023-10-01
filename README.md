@@ -23,7 +23,7 @@ Now that we have a long URL, we can perform some analysis on it as follows:-
 - Check the WHOIS records on Databases like [WHOIS](https://www.whois.com/whois), [WHO.IS](https://who.is), or [ICANN LOOKUP](https://lookup.icann.org/en).
 - Check the DNS records using tools like [DNSDUMPSTER](https://dnsdumpster.com/), or [MXTOOLBOX](https://mxtoolbox.com/DNSLookup.aspx).
 - Check the site reputation & related data using Threat Intelligence platforms like [VIRUSTOTAL](https://www.virustotal.com/), [CISCO TALOS](https://talosintelligence.com/reputation_center), [PULSEDIVE](https://pulsedive.com/), [OPSWAT METADEFENDER](https://metadefender.opswat.com/), or [CLOUDFLARE RADAR](https://radar.cloudflare.com/scan).
-- Open the URL in browser sandboxes like [BROWSERLING](https://www.browserling.com/) and [WANNABROWSER](https://www.wannabrowser.net/) with custom user agents.
+- Open the URL in browser sandboxes like [BROWSERLING](https://www.browserling.com/) and [WANNABROWSER](https://www.wannabrowser.net/), or [SQRX](https://public.sqrx.com/launch) with custom user agents.
 - Some URLs maybe in format `https://example.com/@not-malicious.com`. Here first part of URL is just for show, once a user clicks this link `not-malicious.com` will load instead of `example.com`.
 
 ## Related Resources:-
